@@ -1,1 +1,107 @@
-version 2
+{
+    "meta": {
+        "theme": "elegant"
+    },
+    "basics": {
+        "name": "Julian Askøe Bluming",
+        "label": "Studerer Ernæring og Sundhed",
+        "image": "https://www.facebook.com/photo/?fbid=150301247895398&set=a.150301261228730",
+        "summary": "Jeg har trænet en stor del af af mit liv og i forbindelse med min træning fik jeg for alvor øjnene op for kost og hvor vigtigt det er for velværen. Da jeg var til intro dag på KP og blev præsenteret for ESU kunne jeg mærke var det jeg ville.",
+        "website": "https://lordajax.com",
+        "email": "julian.askoe@gmail.com",
+        "location": {
+            "city": "København",
+            "countryCode": "DK"
+        },
+        "profiles": [
+            {
+                "url": "https://www.facebook.com/profile.php?id=100087465700575",
+                "username": "100087465700575",
+                "network": "facebook"
+            },
+            {
+              "url": "https://github.com/julianaskoe",
+              "username": "julianaskoe",
+              "network": "github"
+          }
+      ]
+    },
+    "education": [
+        {
+            "startDate": "2021-02-01",
+            "area": "Ernæring og Sundhed",
+            "studyType": "Bachelor",
+            "institution": "Københavns Professionshøjskole"
+        },
+        {
+            "endDate": "2020-06-25",
+            "startDate": "2017-08-15",
+            "area": "Voksen- og ungdomsuddannelser",
+            "studyType": "HF",
+            "institution": "KVUC, Københavns VUC"
+        }
+    ],
+    "references": [
+        {
+            "reference": "Julian har været i praktik, meget dedikeret og omgængelig, ....",
+            "name": "Andersine And"
+        }
+    ],
+    "skills": [],
+    "awards": [
+    ],
+    "work": [
+        {
+            "summary": "Praktik børnehave, 3. Semester, Ernæring og Sundhed",
+            "name": "Børnehave XX",
+            "location": "København",
+            "position": "Arbejde i køkken i samarbejde med souschef",
+            "startDate": "2022-05-01",
+            "endDate": "2022-06-15",
+            "highlights": [
+                "Lave mad",
+                "Forberedelse madlavning",
+                "Oprydning",
+                "Servering for børnene"
+            ]
+        },
+        {
+            "summary": "Praktik Frederiksvej Børnehave, KVUC",
+            "name": "Frederiksvej Børnehave",
+            "location": "København",
+            "position": "Arbejde i køkken",
+            "startDate": "2022-09-15",
+            "endDate": "2022-12-15",
+            "highlights": [
+                "Lave mad",
+                "Forberedelse madlavning",
+                "Oprydning",
+                "Servering for børnene"
+            ]
+        },
+        {
+            "summary": "Praktik Fitness World Lygten",
+            "name": "Fitness World Lygten",
+            "location": "København",
+            "position": "Praktik",
+            "startDate": "2015-08-15",
+            "endDate": "2017-06-15",
+            "highlights": [
+                "Oprydning",
+                "Rengøring",
+                "Kundebetjening",
+                "Receptionist",
+                "Ordne varelager",
+                "Varemodtagelse"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Ernæring"
+        },
+        {
+            "name": "Styrketræning"
+        }
+    ]
+}
